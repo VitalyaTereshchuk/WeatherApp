@@ -1,6 +1,5 @@
 # WeatherApp
 
-Project stack:
 Swift
 UIKit
 MVVM + Coordinator
